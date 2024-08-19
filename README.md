@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Iris
 
-- 🌱 I’m currently senior student at [NYCU](https://www.nycu.edu.tw/nycu/ch/index) [@IEM](https://iem.nycu.edu.tw/en/about-us/nctu-iem/)
+- 🌱 I’m currently a senior student at [NYCU](https://www.nycu.edu.tw/nycu/ch/index) [@IEM](https://iem.nycu.edu.tw/en/about-us/nctu-iem/)
 
 <!--
 **iriszzzz/iriszzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
