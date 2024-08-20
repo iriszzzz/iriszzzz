@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a senior student at [NYCU](https://www.nycu.edu.tw/nycu/ch/index) [@IEM](https://iem.nycu.edu.tw/en/about-us/nctu-iem/)
 - 📫 How to reach me : **iris.mg10@nycu.edu.tw**
-- ⚡ Fun fact: **I love workout at the gym🏋🏻‍♀️**.
+- ⚡ Fun fact: **I like to workout at the gym🏋🏻‍♀️**.
 <!--
 **iriszzzz/iriszzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
