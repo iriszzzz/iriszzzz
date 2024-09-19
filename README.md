@@ -1,9 +1,19 @@
+<div align="center">
+  <h2>Hi there 👋 I'm Iris</h2>
+  <ul>
+    🌱 I’m currently a senior student at <a href="https://www.nycu.edu.tw/nycu/ch/index">NYCU</a> <a href="https://iem.nycu.edu.tw/en/about-us/nctu-iem/">@IEM</a><br>
+    📫 How to reach me : <strong>iris.mg10@nycu.edu.tw</strong><br>
+    ⚡ Fun fact: <strong>I like to workout at the gym🏋🏻‍♀️</strong>
+  </ul>
+</div>
+
+<!--
 ## Hi there 👋 I'm Iris
 
 - 🌱 I’m currently a senior student at [NYCU](https://www.nycu.edu.tw/nycu/ch/index) [@IEM](https://iem.nycu.edu.tw/en/about-us/nctu-iem/)
 - 📫 How to reach me : **iris.mg10@nycu.edu.tw**
 - ⚡ Fun fact: **I like to workout at the gym🏋🏻‍♀️**.
-<!--
+
 **iriszzzz/iriszzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
