@@ -18,15 +18,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://komarev.com/ghpvc/?username=iriszzzz&color=blue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iriszzzz)](https://github.com/iriszzzz)
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/wanchin-tsai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iris" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/iriszzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iris" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004986250862&locale=zh_TW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iris" height="30" width="40" /></a>
 <a href="https://www.instagram.com/irisxies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irisxies" height="30" width="40" /></a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iriszzzz)](https://github.com/iriszzzz)
+<div align="center">
+  <a href="https://github.com/iriszzzz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriszzzz" alt="GitHub Streak">
+  </a>
+</div>
 
