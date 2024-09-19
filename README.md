@@ -1,4 +1,6 @@
+![Peek 2024/9/20](https://github.com/iriszzzz/iriszzzz/blob/main/source/iriszzzz.gif)
 <div align="center">
+  <a href="https://github.com/iriszzzz/iriszzzz/blob/main/source/iriszzzz.gif"></a><br>
   <h2>Hi there 👋 I'm Iris</h2>
   <ul>
     🌱 I’m currently a senior student at <a href="https://www.nycu.edu.tw/nycu/ch/index">NYCU</a> <a href="https://iem.nycu.edu.tw/en/about-us/nctu-iem/">@IEM</a><br>
