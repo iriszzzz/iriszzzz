@@ -2,7 +2,6 @@
 <img src="https://github.com/iriszzzz/iriszzzz/blob/main/source/iriszzzz.gif" width="500"  />
 </div>
 <div align="center">
-  <h2>Hi there 👋 I'm Iris</h2>
   <ul>
     🌱 I’m currently a senior student at <a href="https://www.nycu.edu.tw/nycu/ch/index">NYCU</a> <a href="https://iem.nycu.edu.tw/en/about-us/nctu-iem/">@IEM</a><br>
     📫 How to reach me : <strong>iris.mg10@nycu.edu.tw</strong><br>
