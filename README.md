@@ -3,9 +3,10 @@
 </div>
 <div align="center">
   <ul>
-    🌱 Currently a senior student at <a href="https://www.nycu.edu.tw/nycu/ch/index">NYCU</a> <a href="https://iem.nycu.edu.tw/en/about-us/nctu-iem/">@IEM</a><br>
+    🔭 Currently a graduate student at  <a href="https://www.nthu.edu.tw/">NTHU</a> <a href="https://isa.site.nthu.edu.tw/">@ISA</a><br>
+    🌱 Completed undergraduate studies at <a href="https://www.nycu.edu.tw/nycu/ch/index">NYCU</a> <a href="https://iem.nycu.edu.tw/en/about-us/nctu-iem/">@IEM</a><br>
     🇸🇪 Master program exchange at <a href="https://www.chalmers.se/en/">Chalmers</a><br>
-    📫 <strong>iris.mg10@nycu.edu.tw</strong><br>
+    📫 <strong>star17iris@gmail.com</strong><br>
     ⚡ Fun fact: <strong>I like to workout at the gym🏋🏻‍♀️</strong>
   </ul>
 </div>
