@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=iriszzzz&color=blue)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iriszzzz)](https://github.com/iriszzzz)
--->
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -58,4 +58,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriszzzz" alt="GitHub Streak">
   </a>
 </div>
+
+-->
 
